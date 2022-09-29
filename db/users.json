@@ -8,5 +8,10 @@
     "username": "user1",
     "password": "$2a$12$6lU7JRPa1lbbxnZlGBGJVOWcLxCxKphY2hyhMFydu8Yiyn.kWLAou",
     "isAdmin": false
+  },
+  {
+    "username": "Cinder Lord",
+    "password": "$2a$12$vCdvQl/gbwv6AQP5SMg3YuiOeQ8/F9WVLoka9DOaEQ6YbHCFUikQa",
+    "isAdmin": false
   }
 ]
